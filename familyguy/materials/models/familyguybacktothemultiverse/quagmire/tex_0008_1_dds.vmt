@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/familyguybacktothemultiverse/quagmire/Tex_0008_1_dds"
+	"$nocull" 1
+}

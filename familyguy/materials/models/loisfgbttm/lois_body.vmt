@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loisfgbttm/lois_body"
+	"$nocull" 1
+}

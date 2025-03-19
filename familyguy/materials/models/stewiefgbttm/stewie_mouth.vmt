@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/stewiefgbttm/stewie_mouth"
+	"$nocull" 1
+}

@@ -1,0 +1,7 @@
+"Eyes"
+{
+	"$basetexture" "models/cleveland/white"
+	"$iris" "models/cleveland/eyeball_l"
+	"$halflambert" 1
+	"$nocull" 1
+}

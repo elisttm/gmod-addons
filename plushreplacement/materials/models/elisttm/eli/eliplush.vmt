@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/elisttm/eli/eli"
+	$ambientocclusion 0
+	$reflectivity "[0 0 0]"
+	$halflambert 1
+}

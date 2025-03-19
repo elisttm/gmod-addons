@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/stansmith/stan_tex_nocel"
+	"$nocull" 1
+}

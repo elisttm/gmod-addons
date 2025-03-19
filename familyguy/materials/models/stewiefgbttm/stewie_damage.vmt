@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/stewiefgbttm/stewie_damage"
+	"$nocull" 1
+}

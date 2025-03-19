@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" "models/fgjoepinball/white"
+	"$iris" "models/fgjoepinball/eyeball_l"
+	"$halflambert" 1
+}

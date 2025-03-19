@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fgjoepinball/joe_mouth"
+	"$alphatest" 1
+	"$nocull" 1
+}

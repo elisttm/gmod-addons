@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/familyguyonline/joestanding/npc_iconic_joeSDefault_col"
+	"$nocull" 1
+}

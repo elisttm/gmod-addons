@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/stansmith/stan_mouth"
+	"$nocull" 1
+	"$alphatest" 1
+	"$color2"			"[0.875 0.875 0.875]"
+	"$lightwarptexture"	"models/stansmith/celshader"
+}

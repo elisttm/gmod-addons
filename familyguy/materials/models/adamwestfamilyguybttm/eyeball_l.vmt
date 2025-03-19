@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" "models/adamwestfamilyguybttm/white"
+	"$iris" "models/adamwestfamilyguybttm/eyeball_l"
+	"$halflambert" 1
+}

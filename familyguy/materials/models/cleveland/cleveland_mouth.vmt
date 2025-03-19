@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cleveland/cleveland_mouth"
+	"$nocull" 1
+}

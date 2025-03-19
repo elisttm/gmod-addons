@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bigstewie/Tex_0027_0_dds"
+	"$nocull" 1
+}

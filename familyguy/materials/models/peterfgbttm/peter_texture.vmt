@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/peterfgbttm/peter_texture"
+	"$nocull" 1
+}

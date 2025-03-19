@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/adamwestfamilyguybttm/adamwest_mouth"
+	"$nocull" 1
+}
