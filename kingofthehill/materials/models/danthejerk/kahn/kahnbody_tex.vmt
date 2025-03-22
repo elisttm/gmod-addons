@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/danthejerk/kahn/kahnbody_tex"
+	"$halflambert" 1
+}

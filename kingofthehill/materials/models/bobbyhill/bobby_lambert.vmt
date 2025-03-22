@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bobbyhill/bobby_lambert"
+    "$halflambert" 1
+
+}
