@@ -20,3 +20,4 @@ simple repo of all my gmod addons
 ### not included
 
 - [texturepatch](https://steamcommunity.com/sharedfiles/filedetails/?id=3363234147): literally just every cs:s/hl2dm/hl2e2/hl:s asset packed into a single addon
+- [hl2dm maps](https://steamcommunity.com/sharedfiles/filedetails/?id=3449941064): all the anniversary-updated maps (and materials) from hl2dm
